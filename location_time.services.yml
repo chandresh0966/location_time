@@ -1,0 +1,3 @@
+services:
+  location_time.timezone:
+    class: \Drupal\location_time\Services\TimezoneUtility

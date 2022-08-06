@@ -1,0 +1,6 @@
+.location-time {
+  font-size: 12px;
+}
+.location-time p strong {
+  color: #ff0000;
+}

@@ -1,0 +1,4 @@
+location-time:
+  css:
+    theme:
+      assets/css/location-time.css: {}

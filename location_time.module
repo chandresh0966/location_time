@@ -1,0 +1,22 @@
+<?php
+
+/**
+ * @file
+ * Contains location_time.module.
+ */
+
+/**
+ * Implements hook_theme().
+ */
+function location_time_theme() {
+  return [
+    'location_time' => [
+      'variables' => [
+        'country' => NULL,
+        'city' => NULL,
+        'timezone' => NULL,
+        'current_time' => NULL,
+      ],
+    ],
+  ];
+}
