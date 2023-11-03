@@ -1,0 +1,5 @@
+name: 'Location time module'
+type: module
+description: 'Show current time based on configured timezone'
+package: Custom
+core_version_requirement: ^8 || ^9 || ^10
