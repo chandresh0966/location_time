@@ -1,0 +1,13 @@
+location_time.adminsettings:
+  type: config_object
+  label: 'Location Configuration'
+  mapping:
+    country:
+      type: text
+      label: 'Country'
+    city:
+      type: text
+      label: 'City'
+    timezone:
+      type: text
+      label: 'Timezone'
