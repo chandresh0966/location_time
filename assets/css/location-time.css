@@ -1,0 +1,10 @@
+.location-time .current-time {
+  font-size: 2em;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+.location-time .current-date,
+.location-time .location {
+  font-size: 1em;
+  font-weight: bold;
+}
